@@ -29,14 +29,18 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 
 💬 Among my hobbies are: listening to music, playing games, learning, watching movies and series.
 
+<hr/>
+
 ### 📈 My GitHub Stats
 
 ![Gastón Khouri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gastonkhouri&hide=contribs,prs&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gastonkhouri&layout=compact&theme=dark)
 
 *PS: Top languages ​​don't indicate my skill level or something like that, it's a github metric of which languages ​​I have the most code on github.*
 
+<hr/>
 
 ## 📫 Get in touch
-* Twitter: <a href="https://twitter.com/khourigaston"><img width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-* Instagram: <a href="https://instagram.com/gastonkhouri"><img width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-* LinkedIn: <a href="https://linkedin.com/in/gastonkhouri"><img width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/khourigaston"><img width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://instagram.com/gastonkhouri"><img width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://linkedin.com/in/gastonkhouri"><img width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
