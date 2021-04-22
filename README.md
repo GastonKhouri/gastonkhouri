@@ -2,7 +2,7 @@
 
 I'm **Gastón**, a passionate self-taught Full Stack web developer and future software engineer from Venezuela 🇻🇪. My passion for software lies in dreaming ideas and making them come true. I care a lot about the experience, the structure and the quality of the code of the things that I build.
 
-### 📌 I always try to learn a little more every day.
+### 📌 I always try to learn a little more every day
 
 **I know and am learning different languages ​​and tools, including:**
 
