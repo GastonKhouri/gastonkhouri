@@ -8,22 +8,22 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 
 <img align="right" style="margin: 10px" alt="GIF" src="https://raw.githubusercontent.com/gastonkhouri/gastonkhouri/main/.github/images/code.gif" width="500" height="320" />
 
-- <img height="18" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
-- <img height="18" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-- <img height="18" src="https://img.icons8.com/color/48/000000/sass.png"/> SASS
-- <img height="18" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
-- <img height="18" src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-- <img height="18" src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
-- <img height="18" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node
-- <img height="18" src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular
-- <img height="18" src="https://img.icons8.com/officel/48/000000/react.png"/> React
-- <img height="18" src="https://img.icons8.com/color/48/000000/python.png"/> Python
-- <img height="18" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
-- <img height="18" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
-- <img height="18" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> SQL (MySQL, MariaDB, PostgreSQL)
-- <img height="18" src="https://img.icons8.com/color/48/000000/firebase.png"/> NoSQL (Firestore, MongoDB)
-- <img height="18" src="https://img.icons8.com/color/48/fa314a/git.png"/> Git
-- <img height="18" src="https://img.icons8.com/plasticine/48/000000/github.png"/> GitHub
+- <img height="18" src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> HTML
+- <img height="18" src="https://img.icons8.com/color/96/000000/css3.png"/> CSS
+- <img height="18" src="https://img.icons8.com/color/96/000000/sass.png"/> SASS
+- <img height="18" src="https://img.icons8.com/color/96/000000/bootstrap.png"/> Bootstrap
+- <img height="18" src="https://img.icons8.com/color/96/000000/javascript.png"/> JavaScript
+- <img height="18" src="https://img.icons8.com/color/96/000000/typescript.png"/> TypeScript
+- <img height="18" src="https://img.icons8.com/windows/96/68a063/node-js.png"/> Node
+- <img height="18" src="https://img.icons8.com/color/96/000000/angularjs.png"/> Angular
+- <img height="18" src="https://img.icons8.com/officel/96/000000/react.png"/> React
+- <img height="18" src="https://img.icons8.com/color/96/000000/python.png"/> Python
+- <img height="18" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/> Java
+- <img height="18" src="https://img.icons8.com/color/96/000000/c-programming.png"/> C
+- <img height="18" src="https://img.icons8.com/color/96/000000/postgreesql.png"/> SQL (MySQL, MariaDB, PostgreSQL)
+- <img height="18" src="https://img.icons8.com/color/96/000000/firebase.png"/> NoSQL (Firestore, MongoDB)
+- <img height="18" src="https://img.icons8.com/color/96/fa314a/git.png"/> Git
+- <img height="18" src="https://img.icons8.com/plasticine/96/000000/github.png"/> GitHub
  
 📝 I like to think about problem solutions in general and I try to do that in some way in everything I do.
 
@@ -40,7 +40,7 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 <hr/>
 
 ## 📫 Get in touch
-<a href="https://twitter.com/khourigaston"><img width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://instagram.com/gastonkhouri"><img width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://linkedin.com/in/gastonkhouri"><img width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/khourigaston"><img width="36px" src="https://img.icons8.com/fluent/96/000000/twitter.png"/></a>
+<a href="https://instagram.com/gastonkhouri"><img width="36px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/></a>
+<a href="https://linkedin.com/in/gastonkhouri"><img width="36px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/></a>
 
