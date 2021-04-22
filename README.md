@@ -23,7 +23,7 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 - <img height="18" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> SQL (MySQL, MariaDB, PostgreSQL)
 - <img height="18" src="https://img.icons8.com/color/48/000000/firebase.png"/> NoSQL (Firestore, MongoDB)
 - <img height="18" src="https://img.icons8.com/color/48/fa314a/git.png"/> Git
-- <img height="18" src="https://img.icons8.com/material-outlined/48/000000/github.png"/> GitHub
+- <img height="18" src="https://img.icons8.com/plasticine/48/000000/github.png"/> GitHub
  
 📝 I like to think about problem solutions in general and I try to do that in some way in everything I do.
 
