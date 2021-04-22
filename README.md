@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm **Gastón**, a passionate self-taught Full Stack web developer and future software engineer from Venezuela. My passion for software lies in dreaming ideas and making them come true. I care a lot about the experience, the structure and the quality of the code of the things that I build.
+I'm **Gastón**, a passionate self-taught Full Stack web developer and future software engineer from Venezuela 🇻🇪. My passion for software lies in dreaming ideas and making them come true. I care a lot about the experience, the structure and the quality of the code of the things that I build.
 
 ### 📌 I always try to learn a little more every day.
 
@@ -11,6 +11,7 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 - <img height="18" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
 - <img height="18" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 - <img height="18" src="https://img.icons8.com/color/48/000000/sass.png"/> SASS
+- <img height="18" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
 - <img height="18" src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
 - <img height="18" src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
 - <img height="18" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node
@@ -21,6 +22,8 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 - <img height="18" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
 - <img height="18" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> SQL (MySQL, MariaDB, PostgreSQL)
 - <img height="18" src="https://img.icons8.com/color/48/000000/firebase.png"/> NoSQL (Firestore, MongoDB)
+- <img height="18" src="https://img.icons8.com/color/48/fa314a/git.png"/> Git
+- <img height="18" src="https://img.icons8.com/material-outlined/48/000000/github.png"/> GitHub
  
 📝 I like to think about problem solutions in general and I try to do that in some way in everything I do.
 
