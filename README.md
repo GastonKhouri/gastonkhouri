@@ -1,5 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![](https://visitor-badge.glitch.me/badge?page_id=gastonkhouri.gastonkhouri)
+
 I'm **Gastón**, a passionate self-taught Full Stack web developer and future software engineer from 🇻🇪 Venezuela. My passion for software lies in dreaming ideas and making them come true. I care a lot about the experience, the structure and the quality of the code of the things that I build.
 
 ### 📌 I always try to learn a little more every day
