@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gastonkhouri.gastonkhouri)
 
@@ -19,9 +19,8 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 - <img height="18" src="https://img.icons8.com/windows/96/68a063/node-js.png"/> Node
 - <img height="18" src="https://img.icons8.com/color/96/000000/angularjs.png"/> Angular
 - <img height="18" src="https://img.icons8.com/officel/96/000000/react.png"/> React
-- <img height="18" src="https://img.icons8.com/color/96/000000/python.png"/> Python
-- <img height="18" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/> Java
-- <img height="18" src="https://img.icons8.com/color/96/000000/c-programming.png"/> C
+- <img height="18" src="https://img.icons8.com/officel/96/000000/react.png"/> React Native
+- <img height="18" src="https://img.icons8.com/color/96/nextjs.png"/> Next
 - <img height="18" src="https://img.icons8.com/color/96/000000/postgreesql.png"/> SQL (MySQL, MariaDB, PostgreSQL)
 - <img height="18" src="https://img.icons8.com/color/96/000000/firebase.png"/> NoSQL (Firestore, MongoDB)
 - <img height="18" src="https://img.icons8.com/color/96/fa314a/git.png"/> Git
