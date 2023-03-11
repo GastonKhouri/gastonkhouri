@@ -6,7 +6,7 @@ I'm **Gastón**, a passionate self-taught Full Stack web developer and future so
 
 ### 📌 I always try to learn a little more every day
 
-**I know and am learning different languages ​​and tools, including:**
+**I know and I'm learning different languages ​​and tools, including:**
 
 <img align="right" style="margin: 10px" alt="GIF" src="https://raw.githubusercontent.com/gastonkhouri/gastonkhouri/main/.github/images/code.gif" width="500" height="320" />
 
